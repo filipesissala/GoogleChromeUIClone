@@ -1,2 +1,2 @@
-# Front end Challenger
- desafios para desenvolver abilidades no front end
+# Front end Challenge
+ desafios para desenvolver habilidades front end
