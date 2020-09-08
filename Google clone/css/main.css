@@ -6,6 +6,10 @@
         color: black;
     }
 
+    input, button {
+        outline: 0;
+    }
+
     #app {
         display: flex;
         flex-direction: column;
